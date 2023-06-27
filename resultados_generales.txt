@@ -1,0 +1,140 @@
+El proyecto gasta 32117951.5 UF, equivalente 1158847808071.5 pesos chilenos en todo el proyecto 
+Lo anterior es equivalente a 23176956161.43 pesos anual y 3310993737.3471427 por region en promedio anual
+
+El precio por litro de agua en nuestro proyecto es de 7.186730322305929
+
+Se instalaron un total de 17838 atrapanieblas durante el proyecto
+
+Tabla de Regiones y cantidad de Atrapanieblas:
+
+Region           Cantidad de Atrapanieblas
+-------------  ---------------------------
+Atacama                                 82
+Coquimbo                               678
+Valparaiso                            1347
+Metropolitana                         2487
+Ohiggins                              9398
+Maule                                 3328
+Nuble                                  518
+
+Tabla de Anos y Cantidad de Agua Almacenada:
+
+  Ano    Cantidad de Agua Almacenada
+-----  -----------------------------
+ 2025                      584150521
+ 2026                     1144436192
+ 2027                     1680857013
+ 2028                     2193629706
+ 2029                     2682537550
+ 2030                     3147658573
+ 2031                     3588914746
+ 2032                     4006631197
+ 2033                     4400482798
+ 2034                     4770469548
+ 2035                     5116591449
+ 2036                     5438848500
+ 2037                     5737240700
+ 2038                     6011768051
+ 2039                     6262430552
+ 2040                     6489228202
+ 2041                     6692161003
+ 2042                     6871228954
+ 2043                     7026432054
+ 2044                     7157770305
+ 2045                     7265243705
+ 2046                     7348852256
+ 2047                     7408595957
+ 2048                     7444474807
+ 2049                     7456488808
+ 2050                     7444637959
+ 2051                     7408922259
+ 2052                     7349341710
+ 2053                     7265896311
+ 2054                     7158586061
+ 2055                     7027410962
+ 2056                     6872371013
+ 2057                     6693466213
+ 2058                     6490696564
+ 2059                     6264062064
+ 2060                     6013562715
+ 2061                     5739198516
+ 2062                     5440969466
+ 2063                     5118875567
+ 2064                     4772916818
+ 2065                     4403093218
+ 2066                     4009404769
+ 2067                     3591851470
+ 2068                     3150433320
+ 2069                     2685150321
+ 2070                     2196002471
+ 2071                     1682989772
+ 2072                     1146112223
+ 2073                      585369823
+ 2074                         762574
+
+Tabla de Materiales y Cantidad de Atrapanieblas:
+
+Region         Material           Cantidad de Atrapanieblas
+-------------  ---------------  ---------------------------
+Atacama        Rachel 35%                                80
+Atacama        Rachel 50%                                 1
+Atacama        Tela quirurgica                            0
+Atacama        Costal de fique                            1
+Atacama        Guata                                      0
+Coquimbo       Rachel 35%                               472
+Coquimbo       Rachel 50%                               205
+Coquimbo       Tela quirurgica                            0
+Coquimbo       Costal de fique                            1
+Coquimbo       Guata                                      0
+Valparaiso     Rachel 35%                               938
+Valparaiso     Rachel 50%                               408
+Valparaiso     Tela quirurgica                            0
+Valparaiso     Costal de fique                            1
+Valparaiso     Guata                                      0
+Metropolitana  Rachel 35%                              1457
+Metropolitana  Rachel 50%                              1027
+Metropolitana  Tela quirurgica                            1
+Metropolitana  Costal de fique                            2
+Metropolitana  Guata                                      0
+Ohiggins       Rachel 35%                              2966
+Ohiggins       Rachel 50%                              2825
+Ohiggins       Tela quirurgica                         1128
+Ohiggins       Costal de fique                         2479
+Ohiggins       Guata                                      0
+Maule          Rachel 35%                              1204
+Maule          Rachel 50%                              1146
+Maule          Tela quirurgica                            1
+Maule          Costal de fique                          977
+Maule          Guata                                      0
+Nuble          Rachel 35%                               441
+Nuble          Rachel 50%                                76
+Nuble          Tela quirurgica                            0
+Nuble          Costal de fique                            1
+Nuble          Guata                                      0
+
+Tabla de Dimensiones y Cantidad de Atrapanieblas:
+
+Region           Dimension    Cantidad de Atrapanieblas
+-------------  -----------  ---------------------------
+Atacama                 48                            2
+Atacama                100                            0
+Atacama                150                           80
+Coquimbo                48                            0
+Coquimbo               100                            3
+Coquimbo               150                          675
+Valparaiso              48                            0
+Valparaiso             100                          513
+Valparaiso             150                          834
+Metropolitana           48                            2
+Metropolitana          100                         1346
+Metropolitana          150                         1139
+Ohiggins                48                         3219
+Ohiggins               100                         2518
+Ohiggins               150                         3661
+Maule                   48                            1
+Maule                  100                         1411
+Maule                  150                         1916
+Nuble                   48                            0
+Nuble                  100                            3
+Nuble                  150                          515
+
